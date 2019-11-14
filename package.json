@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/marunyak/js-band-hw-task-1/issues"
   },
-  "homepage": "https://github.com/marunyak/js-band-hw-task-1#readme",
+  "homepage": "http://marunyak.github.io/js-band-hw-task-1",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
